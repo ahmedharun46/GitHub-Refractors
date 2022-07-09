@@ -3,18 +3,18 @@
     padding: 0;
     margin: 0;
 }
-
+/*Makes entire webpage background color white*/
 body {
     background-color: #d9dcd6;
 }
-
+/*Makes spacing font change sets backgorund and letter colors*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/*Puts different info on the same line*/
 .header h1 {
     display: inline-block;
     font-size: 48px;
@@ -23,7 +23,7 @@ body {
 .header h1 .seo {
     color: #d9dcd6;
 }
-
+/*float place elements on the right side*/
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -31,11 +31,11 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
-
+/*no list type no bullets or numbers*/
 .header div ul {
     list-style-type: none;
 }
-
+/* Margine-left Moves the items to left 25px.*/
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
@@ -50,7 +50,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/*Sets the height and width and box for the hero class. Produces the background image and centers it and covers the entire area. Sets the margin area on the bottom.  */
 .hero {
     height: 800px;
     width: 100%;
@@ -75,7 +75,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
+/* Margin-right moves the elements to right side. Padding to generate space with the elements inside the boarder. Font-family gives the element a specfic font  */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -86,7 +86,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-
+/* Margin spacing in the bottom and font color*/
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
@@ -116,7 +116,7 @@ p {
     margin-bottom: 10px;
     text-align: center;
 }
-
+/* Block allows image to start on new line basically a stacked position. Margin auto horzontally centers the image. max-width sets the maximum with of the image.*/
 .benefit-lead img {
     display: block;
     margin: 10px auto;
@@ -161,7 +161,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/* Sets the image max hegiht */
 .search-engine-optimization img {
     max-height: 200px;
 }
@@ -188,7 +188,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/*clear both does not allow the elements to float on left or right side*/
 .footer {
     padding: 30px;
     clear: both;
