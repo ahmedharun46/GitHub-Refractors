@@ -16,7 +16,10 @@ Project Title
         How to make repisitory on GitHub and push code through
         Know what numerous css styles can do to are webpage, font-color,margin, and many more.
        
-       Git Hub URL 
+        Live Deployment URL 
        https://ahmedharun46.github.io/GitHub-Refractors/
-       
+      
+      Git Hub Repisatory URL
+  https://github.com/ahmedharun46/GitHub-Refractors
+
 <img width="1360" alt="GitHub Screenshot" src="https://user-images.githubusercontent.com/106023206/178400242-84e702b6-6b59-4d8d-9d91-b29f35720453.png">
